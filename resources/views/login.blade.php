@@ -49,7 +49,7 @@
         <!-- /.col -->
         <div class="col-xs-12">
           <button type="submit" onclick="login()" class="btn btn-primary btn-block btn-flat">Sign In</button>
-          <a href="https://drive.google.com/open?id=1p1aISUpvP1Jv-qCmAXNDxGLeGg7D2JkD"><p class="login-box-msg">click here to get FiMaid.apk</p></a>
+          <a href="https://drive.google.com/open?id=1MhRvWKhmS91JJbtLS3e5_QuoTTwmn8Nc"><p class="login-box-msg">click here to get FiMaid.apk</p></a>
 
         </div>
         <!-- /.col -->
